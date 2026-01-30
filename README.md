@@ -23,7 +23,6 @@ The datasets have been cleaned, merged, and converted into a long format suitabl
 
 Project Structure:
 	•	London_Underground_Analysis/ – Main project folder / GitHub repository
-	•	data/ – Contains all datasets
 	•	cleaned_borough_data.csv – Final cleaned dataset with merged Tube passengers and population data
 	•	London_Underground_Analysis.ipynb – Colab notebook with full data cleaning, analysis, and visualizations
 	•	README.md – Project explanation and documentation
