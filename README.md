@@ -64,7 +64,7 @@ The datasets have been cleaned, merged, and converted into a long format suitabl
 	3.	Ensure data/cleaned_borough_data.csv is in the correct folder.
 	4.	Run the notebook to reproduce analysis, visualizations, and insights.
 
-  License
+  # License
 
 This project is for educational and research purposes. Data sources are cited in the notebook.
   
